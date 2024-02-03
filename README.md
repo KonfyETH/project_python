@@ -9,7 +9,7 @@
 
 ### Проекты:
 
-#sql_metrics()
+#analytical_project()
 
 **Данные:**
 
